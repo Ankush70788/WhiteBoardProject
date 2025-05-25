@@ -41,4 +41,4 @@ A full-stack web application that enables multiple users to draw, sketch, and co
 
 ```bash
 git clone https://github.com/Ankush70788/WhiteBoardProject.git
-cd whiteboard-app
+cd WhiteBoardProject
